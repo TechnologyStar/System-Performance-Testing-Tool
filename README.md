@@ -1,6 +1,4 @@
-以下是为你的项目编写的 GitHub 项目介绍模板，包含 **中英对照**、**更多颜文字**，以及 **支持广告**（推荐 [Rainyun](https://www.rainyun.com/LINUXDO_)）。你可以将其直接复制到你的 GitHub 仓库的 `README.md` 文件中，并根据需要进行修改。
 
----
 
 # 系统性能测试工具 / System Performance Testing Tool 🚀✨
 
